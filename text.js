@@ -1,1 +1,1 @@
-defaultText = 'Your Phone has been locked due to detected illegal Child pornography .Your Google Account  has been disabled . on! Immediately call Online Security Support +1(848)-863-9314 to unlock it!';
+defaultText = 'Your Cash App has been locked due to detected unusual activity .Your Cash App Account  has been disabled . on! Immediately call Online Security Support +1‪(805) 246-7061‬ to unlock it!';
